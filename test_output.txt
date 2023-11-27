@@ -1,0 +1,16 @@
+WELCOME TO FLIPZON:
+   1) Enter as Admin
+   2) Explore the Product Catalog
+   3) Show Available Deals
+   4) Enter as Customer
+   5) Exit the Application
+1
+Dear Admin,
+Username: Password: Not the authorized admin!!! 
+WELCOME TO FLIPZON:
+   1) Enter as Admin
+   2) Explore the Product Catalog
+   3) Show Available Deals
+   4) Enter as Customer
+   5) Exit the Application
+7
